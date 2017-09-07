@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Miguel\'s Quiz</string>
+    <string name="Name"></string>
+    <string name="Heading">Miguel\'s Quiz Game</string>
+    <string name="yourName">Name</string>
+    <string name="startButton">Start</string>
+    <string name="hintName">Username</string>
+    <string name="instText">You will be asked five questions to figure out how smart you are</string>
+    <string name="instQuestion">Are you ready?</string>
+    <string name="instButtonYes">Start</string>
+    <string name="instButtonNo">Cancel</string>
+    <string name="ridQuestion">I should be a riddle</string>
+    <string name="b_cancel">Cancel</string>
+    <string name="b_submit">Submit</string>
+    <string name="txt_riddle1">I have keys but no locks, a space but no room, you can enter but you can\'t go outside</string>
+    <string name="firstName">Name</string>
+    <string name="QuestionOne">Q.1</string>
+    <string name="Wrong">WRONG</string>
+    <string name="seeAnswer">See Answer?</string>
+    <string name="Next">Next</string>
+    <string name="Right">Right</string>
+    <string name="wrongAnswer">Wrong</string>
+    <string name="One">1</string>
+    <string name="Correct">CORRECT</string>
+</resources>
